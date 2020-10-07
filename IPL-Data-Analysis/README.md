@@ -18,4 +18,4 @@
 
 ### Plot the top 5 wicket takers across all seasons
 
-<img src="plots/bowler.png">
+<img src="plots/bowlers.png">
