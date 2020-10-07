@@ -9,7 +9,7 @@
 
 ### Time series data plot
 
-<img src="plots/time series.png" height=500, width=500>
+<img src="plots/time series.png" height=500 width=500>
 
 ### Covid-19 cases distribution
 
