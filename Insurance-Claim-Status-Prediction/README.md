@@ -113,7 +113,7 @@ As a Data scientist in an insurance company, you need to analyse the available d
 
 <img src="plots/report2.png">
 
-
+<p> Recall for class 1 is 0.71, that means out of all the travellers who actually want to claim for insurance, 71% will be predicted accurately. </p>
 
 
 
