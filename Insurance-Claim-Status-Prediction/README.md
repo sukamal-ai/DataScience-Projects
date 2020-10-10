@@ -113,7 +113,7 @@ As a Data scientist in an insurance company, you need to analyse the available d
 
 <img src="plots/report2.png">
 
-### Recall for class 1 is 0.71, that means out of all the claims which should be approved, 71% will be predicted accurately.
+### Recall for class 1 is 0.71, that means out of all the claims which should be approved, 71% is predicted accurately.
 
 
 
