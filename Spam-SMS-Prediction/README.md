@@ -14,6 +14,16 @@
 
 <img src="plots/wc2.png">
 
+## Text preprocessing
 
+<p> Stopwords and punctuation removal using <b>nltk</b> library </p>
+<p> Text vectorization using <b>TFIDF-Vectorizer</b> </p>
 
+## Model
+<p> Decision Tree </p>
 
+<img src="plots/report.png">
+
+<p> Precision for spam sms is 0.92, that means very few non-spam sms have been predicted as spam sms. Recall is 0.79, that means out of all actual spam sms, 79% have been predicted as spam accurately. </p>
+
+## Saving model
