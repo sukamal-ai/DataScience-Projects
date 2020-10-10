@@ -56,5 +56,66 @@ As a Data scientist in an insurance company, you need to analyse the available d
      </tr>
 </table>
 
+## EDA and Preprocessing
+
+### Null values in %
+
+<img src="plots/null.png">
+
+<p> Dropped Gender and ID column </p>
+
+## Analyze Categorical columns
+
+<img src="plots/plot1.png">
+
+<img src="plots/plot2.png">
+
+<img src="plots/plot3.png">
+
+<img src="plots/plot4.png">
+
+<img src="plots/plot5.png">
+
+<p> Dropped Dristribution channel (Highly imbalanced) and Destinations (Too many classes) </p>
+
+## Analyze Numerical columns
+
+<img src="plots/plot6.png">
+
+<img src="plots/plot7.png">
+
+<img src="plots/plot8.png">
+
+<img src="plots/plot9.png">
+
+<p> Replaced duration values < 0 with average duration of their respective destination </p>   
+
+## Bivariate Analysis againts the traget
+
+<img src="plots/plot10.png">
+
+<img src="plots/plot11.png">
+<img src="plots/plot12.png">
+<img src="plots/plot13.png">
+
+## Baseline model
+
+<p> Decision Tree Classifier</p>
+
+<img src="plots/report1.png">
+
+## Neural Network
+
+<p> Standardization using <b>StandardScaler</b> </p>
+<p> Since the target is highly imbalanced, used <b>RandomOverSampler</b> </p>
+
+<img src="plots/nn.png">
+
+<img src="plots/report.png">
+
+
+
+
+
 
 
