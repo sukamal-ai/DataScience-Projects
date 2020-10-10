@@ -33,7 +33,7 @@
 
 <img src="plots/app.png">
 
-<p> Containarized the application using <b>Docker</b> </p>
+<p> Containarized the application using the <b>Docker</b> </p>
 
 ```FROM python:3.6-slim
 
