@@ -90,7 +90,7 @@ As a Data scientist in an insurance company, you need to analyse the available d
 
 <p> Replaced duration values < 0 with average duration of their respective destination </p>   
 
-## Bivariate Analysis againts the traget
+## Bivariate Analysis against the traget
 
 <img src="plots/plot10.png">
 
@@ -111,7 +111,7 @@ As a Data scientist in an insurance company, you need to analyse the available d
 
 <img src="plots/nn.png">
 
-<img src="plots/report.png">
+<img src="plots/report2.png">
 
 
 
