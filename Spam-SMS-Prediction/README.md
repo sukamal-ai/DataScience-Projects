@@ -26,4 +26,14 @@
 
 <p> Precision for spam sms is 0.92, that means very few non-spam sms have been predicted as spam sms. Recall is 0.79, that means out of all actual spam sms, 79% have been predicted as spam accurately. </p>
 
-## Saving model
+## Deploying model
+
+<p> Saved the model in a file using pickle library </p>
+<p> Developed a web application using Flask API </p>
+
+<img src="plots/app.png">
+
+<p> Containarized the application using Docker </p>
+
+
+
